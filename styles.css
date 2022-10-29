@@ -82,13 +82,17 @@ img {
 
 table {
     border: solid #dddddd 1px;
-    font-size: 1.6vh;
-    margin: 2px;
-    font-family: 'Rubik', sans-serif;
+    font-size: 3.4vh;
+    margin: 5px;
 }
 
 .gris {
     background-color: #e6e9eb;
-    padding: 10px;
+    margin: 100px;
     border: solid #dddddd 1px;
+}
+
+td {
+    margin: 15px;
+    padding: 25px;
 }
